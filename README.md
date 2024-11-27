@@ -1,8 +1,8 @@
 ## Opa, Sou João Victor de Paula, bem vindo ao meu GitHub 👋
 
 ### 📊 GitHub Stats
-<img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api?username=JoaoVictordePaulaSilva&theme=synthwave&show_icons=true&include_all_commits=true&count_private=true">
-<img align="center" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictordePaulaSilva&&theme=synthwave&layout=compact&&langs_count=8">
+![Joao's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoVictordePaulaSilva&show_icons=true&theme=synthwave)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictordePaulaSilva&layout=compact&theme=synthwave)
 
 Ainda Cursando a faculdade de Ciências da Computação, porém no momento estou estudando essas linguagens:
 <div style="display: inline_block"><br>
