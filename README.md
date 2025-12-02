@@ -1,30 +1,85 @@
-## Opa, Sou João Victor de Paula, bem vindo ao meu GitHub 👋
+## 👋 Opa! Sou João Victor de Paula
 
-### 📊 GitHub Stats
+Sou estudante de **Ciências da Computação**, apaixonado por desenvolvimento, tecnologia e criação de projetos práticos que evoluam minhas habilidades. No momento, estou aprofundando meus estudos em desenvolvimento web, Python, Java e bancos de dados.
+
+---
+
+## 📊 GitHub Stats
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=JoaoVictordePaulaSilva&show_icons=true&theme=synthwave" />
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictordePaulaSilva&layout=compact&theme=synthwave" />
+
+
+
+  <!-- Gráfico de linguagens (%) - funciona sempre -->
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JoaoVictordePaulaSilva&theme=tokyonight" />
+
 </div>
 
+---
+## 🧠 Atualmente estudando:
 
-Ainda Cursando a faculdade de Ciências da Computação, porém no momento estou estudando essas linguagens:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="MS SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-
-  
+### 🚀 Linguagens de Programação
+<div align="center" style="display: inline_block"><br>
+  <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+  <img alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img alt="Java" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
-  
-  ##
 
-<div> 
-  <a href="https://www.instagram.com/jvictorsla" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaovitordepaula002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-de-paula-silva-71a750269" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
+---
+
+### 🎨 Front-end
+<div align="center" style="display: inline_block"><br>
+  <img alt="HTML" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="CSS" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
+
+---
+
+### 🛠 Back-end e Frameworks
+<div align="center" style="display: inline_block"><br>
+  <img alt="Maven" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg">
+  <img alt="Spring Boot" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+</div>
+
+---
+
+### 🗄 Banco de Dados
+<div align="center" style="display: inline_block"><br>
+
+  <!-- SQL Server -->
+  <img alt="SQL Server" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
+
+  <!-- DBeaver (logotipo oficial simples) -->
+  <img alt="DBeaver" height="40" src="https://simpleicons.org/icons/dbeaver.svg">
+
+</div>
+
+---
+
+### 🧰 Ferramentas e Outros
+<div align="center" style="display: inline_block"><br>
+
+  <!-- Blender -->
+  <img alt="Blender" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
+
+  <!-- Excel -->
+  <img alt="Excel" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftexcel.svg">
+
+  <!-- Word -->
+  <img alt="Word" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftword.svg">
+
+  <!-- PowerPoint -->
+  <img alt="PowerPoint" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/microsoftpowerpoint.svg">
+
+  <!-- Canva -->
+  <img alt="Canva" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/canva.svg">
+
+  <!-- Adobe Lightroom -->
+  <img alt="Lightroom" height="40" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/adobelightroomclassic.svg">
+
+</div>
+
+---
+
+### ✨ Obrigado por visitar meu perfil!  
+Sinta-se à vontade para explorar meus projetos 😉
